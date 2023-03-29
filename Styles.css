@@ -1,0 +1,38 @@
+body {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 70px;
+    margin-left: 40px;
+}
+
+h1, h2 {
+    color:darkblue;
+}
+p {
+    font-size: medium;
+}
+button {
+    margin: 7px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+  
+.text {
+    flex: 1;
+}
+  
+.image {
+    margin-left: 20px;
+}
+.carousel-container {
+    width: 25%;
+    margin-left: 20px;
+}
+
+.collapse {
+    padding-left:10px;
+    padding-right:10px;
+}
